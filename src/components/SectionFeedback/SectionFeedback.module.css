@@ -1,0 +1,12 @@
+.section:not(:last-child) {
+  margin-bottom: 40px;
+}
+
+.tittle {
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+}
